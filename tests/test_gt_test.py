@@ -12,6 +12,7 @@ import unittest
 
 import gt_test
 
+from pytrends.request import TrendReq
 
 class TestGt_test(unittest.TestCase):
 
